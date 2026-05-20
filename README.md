@@ -3,7 +3,7 @@
 A highly responsive, multi-layered IoT security system designed for industrial environments and vaults. This project bridges physical hardware responses with continuous cloud monitoring without any blocking delays.
 
 ## 👨‍💻 Author
-**Jimmy Hadad** (Student ID: 231049)
+**Jimmy Hadad** 
 
 ## 🎯 Project Objective
 To design and implement a security system that detects, prevents, and reports unauthorized access in real-time. By utilizing **FreeRTOS** on the ESP32, the system ensures instantaneous security reactions locally while simultaneously routing actionable data to a Telegram Bot via Google Apps Script.
